@@ -8,5 +8,5 @@
 
   <div>
     <a href-"https://github.com/Camargoge/Camargoge/">
-    <img height-"180em" src-"https://github-readme-states.versel.app/api?username-camargoge&show_icons-true&theme-dracula&include_all_commits=true> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   </div>
