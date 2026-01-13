@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Kotlin,Java, Python, SQL and tests. 
 - 📫 How to reach me: gcamargosalles@gmail.com
+-  Linkedin: https://www.linkedin.com/in/geziellicsalles/
 
   
 
